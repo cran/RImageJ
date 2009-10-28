@@ -1,4 +1,4 @@
-\name{junk-package}
+\name{RImageJ-package}
 \Rdversion{1.1}
 \alias{RImageJ-package}
 \docType{package}
@@ -11,10 +11,10 @@ and analysis platform ImageJ
 }
 \details{
 \tabular{ll}{
-Package: \tab junk\cr
+Package: \tab RImageJ\cr
 Type: \tab Package\cr
-Version: \tab 0.0-141\cr
-Date: \tab 2009-06-17\cr
+Version: \tab 0.1-142\cr
+Date: \tab 2009-10-28\cr
 License: \tab GPL-3\cr
 LazyLoad: \tab yes\cr
 }

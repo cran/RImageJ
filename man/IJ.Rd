@@ -6,7 +6,8 @@
 IJ object
 }
 \description{
-This represents an object of class \code{ij.IJ} created at startup 
+This represents an object of class \code{ij.IJ} created when the 
+RImageJ package is loaded
 }
 \usage{IJ}
 \format{
