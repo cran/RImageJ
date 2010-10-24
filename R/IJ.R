@@ -1,3 +1,1 @@
-
-delayedAssign( "IJ", .jnew( "ij/IJ" ) )
-
+delayedAssign("IJ", .jnew("ij/IJ"))
